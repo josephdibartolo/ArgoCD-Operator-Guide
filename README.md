@@ -1,4 +1,4 @@
-# ArgoCD-Operator-Guide
+# ArgoCD on Openshift
 Compilation of links and YAML resources for instantiating an ArgoCD instance on Openshift using an operator.
 
 ***Please select the branch appropriate to the Operator version you are using.***
