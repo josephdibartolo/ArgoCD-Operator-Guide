@@ -5,7 +5,7 @@ Compilation of links and YAML resources for instantiating an ArgoCD instance on 
 
 Currently documented versions:
 
-- [0.0.8](https://github.com/josephdibartolo/ArgoCD-Operator-Guide/tree/0.0.8)
+- [0.0.8](https://github.com/josephdibartolo/ArgoCD-on-Openshift/tree/0.0.8)
 
 ### Resources:
 
