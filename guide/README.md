@@ -8,6 +8,8 @@ ArgoCD's Operator can be installed either through the Openshift *OperatorHub*, o
 
 Go to the OperatorHub and search for ArgoCD. You will see two versions come up, one for a Helm install and one without Helm. We will use the one **without** Helm, simply entitled "ArgoCD".
 
+![ArgoCD in the OperatorHub](./argo-operatorhub.png)
+
 You will need to install the ArgoCD Operator to a particular namespace; one recommended strategy is to create a project/namespace entitled `argocd` and use this for all ArgoCD-related resources. Click "Install" and configure ArgoCD to whatever namespace you want to use.
 
 The operator will spin-up in the selected project/namespace.
